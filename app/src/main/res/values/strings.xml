@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trending Movies</string>
+
+    <string name="plan">Plan: %1$s</string>
+    <string name="release_year">Release Year:  %1$d</string>
+    <string name="movie_type">%1$s</string>
+    <string name="movie_duration">%1$s hrs</string>
+    <string name="created_on">Created On: %1$s</string>
+    <string name="updated_on">Updated On: %1$s</string>
+
+    <string name="na">NA</string>
+
+</resources>
